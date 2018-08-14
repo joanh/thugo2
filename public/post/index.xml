@@ -17,7 +17,8 @@
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ejemplo-de-entrada/</guid>
-      <description></description>
+      <description>Integrado el soporte LaTeX según este código
+\[\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t\]</description>
     </item>
     
     <item>
