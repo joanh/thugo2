@@ -13,4 +13,7 @@ menu: ''
 share: yes
 ---
 
+Integrado el soporte `LaTeX` según [este código](https://bookdown.org/yihui/blogdown/templates.html#how-to)
+
+\[\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t\]
 
