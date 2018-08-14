@@ -3,7 +3,7 @@ LanguageCode= "es-ES"
 Title= "Hugo Theme Air"
 paginate = 3
 DisqusShortname = ""
-Copyright = "All rights reserved - 2016"
+Copyright = "All rights reserved - 2018"
 canonifyurls = true
 
 [author]
@@ -13,7 +13,7 @@ canonifyurls = true
   description = "Ejemplo de sitio estático"
   cover = "images/screen.png"
   author = "Joanh"
-  authorlocation = ""
+  authorlocation = "Madrid, Spain"
   authorwebsite = ""
   bio= "my bio"
   logo = "images/user.png"
