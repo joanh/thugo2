@@ -1,0 +1,15 @@
+---
+title: Ejemplo de entrada con RMarkdown
+author: Joanh
+date: '2018-08-14'
+slug: ejemplo-de-entrada-con-rmarkdown
+categories:
+  - R
+  - Hugo
+tags: []
+comments: yes
+image: ''
+menu: ''
+share: yes
+---
+

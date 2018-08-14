@@ -1,0 +1,15 @@
+---
+title: Ejemplo de entrada
+author: Joanh
+date: '2018-08-14'
+slug: ejemplo-de-entrada
+categories:
+  - R
+tags:
+  - R Markdown
+comments: yes
+image: ''
+menu: ''
+share: yes
+---
+

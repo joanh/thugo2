@@ -2,10 +2,6 @@ theme = "hugo-theme-air"
 baseURL = "https://test-hugo-04.netlify.com/"
 languageCode = "es-es"
 title = "Joanh"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
-[menu]
-
-  [[menu.header]]
-    weight = 2
-    name = "CV"
-    url = ""
+  
