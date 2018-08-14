@@ -1,5 +1,5 @@
 BaseUrl= "http://syui.github.io/hugo-theme-air/"
-LanguageCode= "es-es"
+LanguageCode= "es-ES"
 Title= "Hugo Theme Air"
 paginate = 3
 DisqusShortname = ""
@@ -16,7 +16,7 @@ canonifyurls = true
   authorlocation = ""
   authorwebsite = ""
   bio= "my bio"
-  logo = "images/JAH_270xGreen.png"
+  logo = "images/user.png"
   googleAnalyticsUserID = ""
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   RSSLink = ""
