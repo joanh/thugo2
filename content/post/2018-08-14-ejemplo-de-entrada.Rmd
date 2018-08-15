@@ -15,7 +15,7 @@ share: yes
 
 Sigo trasteando con `Hugo`, `Netlify` y `blogdown`en `RStudio`.
 
-![](img/sites.png)
+![](/img/sites.png)
 
 - [test-hugo-01](https://test-hugo-01.netlify.com/)
 - [test-hugo-02](https://test-hugo-02.netlify.com/)
