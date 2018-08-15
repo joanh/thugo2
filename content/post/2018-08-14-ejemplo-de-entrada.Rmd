@@ -13,7 +13,15 @@ menu: ''
 share: yes
 ---
 
-Integrado el soporte `LaTeX` según [este código](https://bookdown.org/yihui/blogdown/templates.html#how-to)
+## Sigo trasteando con `Hugo`, `Netlify` y `blogdown`en `RStudio`.
+
+![](images/sites.png)
+
+- [test-hugo-01](https://test-hugo-01.netlify.com/)
+- [test-hugo-02](https://test-hugo-02.netlify.com/)
+- [test-hugo-03](https://test-hugo-03.netlify.com/)
+
+No consigo integrar el soporte `LaTeX` según [este código](https://bookdown.org/yihui/blogdown/templates.html#how-to) a pesar de [estas pistas](https://xmin.yihui.name/).
 
 $$\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t$$
 

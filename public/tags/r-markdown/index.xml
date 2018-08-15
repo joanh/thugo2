@@ -17,9 +17,10 @@
       <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/ejemplo-de-entrada/</guid>
-      <description>Integrado el soporte LaTeX según este código
+      <description>Sigo trasteando con Hugo, Netlify y blogdownen RStudio.test-hugo-01test-hugo-02test-hugo-03No consigo integrar el soporte LaTeX según este código a pesar de estas pistas.
 \[\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t\]
-\[{\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)\]</description>
+\[{\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)\]
+</description>
     </item>
     
     <item>
