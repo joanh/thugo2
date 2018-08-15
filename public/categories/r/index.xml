@@ -18,7 +18,7 @@
       
       <guid>/post/ejemplo-de-entrada/</guid>
       <description>Integrado el soporte LaTeX según este código
-\[\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t\\]
+\[\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t\]
 \[{\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)\]</description>
     </item>
     
