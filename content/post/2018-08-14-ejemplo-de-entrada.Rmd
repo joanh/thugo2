@@ -13,7 +13,7 @@ menu: ''
 share: yes
 ---
 
-## Sigo trasteando con `Hugo`, `Netlify` y `blogdown`en `RStudio`.
+Sigo trasteando con `Hugo`, `Netlify` y `blogdown`en `RStudio`.
 
 ![](images/sites.png)
 
@@ -26,4 +26,5 @@ No consigo integrar el soporte `LaTeX` según [este código](https://bookdown.or
 $$\delta y={v_{y}}_{m}(t_{f}-t_{0})={v_{y}}_{m}\Delta t$$
 
 $${\sqrt {n}}\left(\left({\frac {1}{n}}\sum _{i=1}^{n}X_{i}\right)-\mu \right)\ {\xrightarrow {d}}\ N\left(0,\sigma ^{2}\right)$$
+
 
