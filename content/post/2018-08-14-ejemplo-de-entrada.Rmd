@@ -12,8 +12,7 @@ image: ''
 menu: ''
 share: yes
 ---
-
-Sigo trasteando con `Hugo`, `Netlify` y `blogdown`en `RStudio`.
+Sigo trasteando con `Hugo`, `Netlify` y `blogdown` en `RStudio`.
 
 ![](/img/sites.png)
 
